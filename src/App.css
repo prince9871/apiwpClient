@@ -30,13 +30,13 @@
 }
 
 .left-message {
-  background-color: #008cba;
+  background-color: #E7E7E7;
   color: white;
   align-self: flex-start;
 }
 
 .right-message {
-  background-color: #4caf50;
+  background-color: #006A42;
   color: white;
   align-self: flex-end;
 }
